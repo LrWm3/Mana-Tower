@@ -1,3 +1,7 @@
+## Now available online!
+
+I threw together this blogger site to demo the web version of this game. The web version has more text describing what means what. http://williammarsman.blogspot.ca/
+
 # Mana-Tower
 
 The current release is the alpha. Many of the textures are placeholders and the current game content has not been 'balanced' but merely serves to demonstrate the various features of the game. It has been designed to be easily extendable, but with the bulk of the system done I am putting this project on hold for a while.
