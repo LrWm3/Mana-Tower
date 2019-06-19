@@ -1,6 +1,6 @@
 ## Now available online!
 
-I threw together this blogger site to demo the web version of this game. The web version has more text describing what means what. http://williammarsman.blogspot.ca/
+Sorry but it's no longer available online
 
 # Mana-Tower
 
